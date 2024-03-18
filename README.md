@@ -40,4 +40,7 @@ and you need to fill the config file like this:
 
 </br>
 After this, you just need to run the command "npm i" to install the node modules folder. At the end, run "npm start" to run the app. With this, hopefully, the website will start functioning. 
+</br>
+You will also need to instal libraries such as: bcrypt, cors, express, jsobwebtoken, mysql2, nodemon, sequelize, sequelize-cli for the backend. And axios and react-router-dom for the frontend
+
 
